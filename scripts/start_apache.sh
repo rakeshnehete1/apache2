@@ -1,3 +1,3 @@
 #!/bin/bash
 # starting service
-service httpd start
+service apache2 start
